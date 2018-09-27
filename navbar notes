@@ -1,0 +1,22 @@
+  <script src="../devprojectshome.html"></script>
+  <script src="../../artprojectshome/artprojectshome.html"></script>
+  <script src="../../followmehome/followmehome.html"></script>
+  <script src="../../home.html"></script>
+	
+
+<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+		<div class="navbar-header">
+			<div>
+		  		<a class="navbar-brand" href="../../home.html">
+					<div class="front">Myles of Work</div>
+				</a>
+			</div>
+		</div>
+			<ul class="nav navbar-nav">
+			  <li><a href="../devprojectshome.html">Dev Projects</a></li>
+			  <li><a href="../../artprojectshome/artprojectshome.html">Art Projects</a></li>
+			  <li><a href="../../followmehome/followmehome.html">Follow Me</a></li>
+			</ul>
+	  </div>
+	</nav>
